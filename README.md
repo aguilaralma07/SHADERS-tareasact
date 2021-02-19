@@ -1,2 +1,1 @@
-# tarea-shaders
 # SHADERS-tareasact
